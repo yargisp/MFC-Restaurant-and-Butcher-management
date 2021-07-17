@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC_Final_Project_Rest_UpdateDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABCAAAEgSoAAABAAAAASAAAAQAAACBIAAQAAABAg=</HashCode>
+      <FileName>Business.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Butcher" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Butcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAA2AAAEiAAICIAAAAAAAAAAgAAAABABIAIiAAAgg=</HashCode>
+      <FileName>Customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerDLG" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQQIKAEoAEAgCQEAMhAQAQAIAAAABAAICEEAgCQAAoE=</HashCode>
+      <FileName>ManagerDLG.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager_DLG" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAEAAAAAAAAIABAAAAAAAAAAAAAAgAIEAAQAAAA=</HashCode>
+      <FileName>Manager_DLG.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCFinalProjectRestUpdateApp" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAgAAA=</HashCode>
+      <FileName>MFC_Final_Project_Rest_Update.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCFinalProjectRestUpdateDlg" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GESAABEgAAABAABAIBCBAAAgRBBAAAUQQAAgAAAYAIE=</HashCode>
+      <FileName>MFC_Final_Project_Rest_UpdateDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewOrderButcher" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACABAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewOrderButcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewOrder_Dialog" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>NewOrder_Dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

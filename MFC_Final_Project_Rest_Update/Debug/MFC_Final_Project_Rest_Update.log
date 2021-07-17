@@ -1,0 +1,9 @@
+﻿  AboutDLG.cpp
+  ManagerDLG.cpp
+C:\Users\lenovo\Desktop\UPDATE\MFC_Final_Project_Rest_Update\ManagerDLG.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\Desktop\UPDATE\MFC_Final_Project_Rest_Update\ManagerDLG.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\Desktop\UPDATE\MFC_Final_Project_Rest_Update\ManagerDLG.cpp(704,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\Desktop\UPDATE\MFC_Final_Project_Rest_Update\ManagerDLG.cpp(779,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\Desktop\UPDATE\MFC_Final_Project_Rest_Update\ManagerDLG.cpp(863,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MFC_Final_Project_Rest_Update.vcxproj -> C:\Users\lenovo\Desktop\UPDATE\Debug\MFC_Final_Project_Rest_Update.exe
